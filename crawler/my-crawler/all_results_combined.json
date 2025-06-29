@@ -1,0 +1,1929 @@
+[
+  {
+    "url": "https://www.chainsecurity.com/security-audit/neulock",
+    "title": "Smart Contract Audit - Neulock Smart Contracts - Neulock",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/685573cffeeb96c65d54108b_ChainSecurity_Studio_V_Neulock_audit%201.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/usdd-rwa-smart-contracts",
+    "title": "Smart Contract Audit - Smart Allocator Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/684c2ea8373a9a320f7ba1dd_ChainSecurity_Decentralized_USD_RWA_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-sky-smart-contracts",
+    "title": "Smart Contract Audit - Sky smart contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6848a20b3b2dc71cbd6c7c30_ChainSecurity_Sky_Sky_audit%201.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/uma-sports-oracle",
+    "title": "Smart Contract Audit - UMA Sports Oracle - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6842fbe72abf2dad6259873b_ChainSecurity_Polymarket_UMA_Sports_Oracle_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/hedgehog-protocol",
+    "title": "Smart Contract Audit- Hedgehog Protocol - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/683dcbd05671b6c6c4230dc0_ChainSecurity_Hedgehog_Hedgehog_Protocol_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-xxiv",
+    "title": "Smart Contract Audit - Enzyme Sulu Extensions XXIV - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6835d11a7f9fd85da5452253_ChainSecurity_Enzyme_Foundation_Sulu_Extensions_XXIV_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/k3-sbold",
+    "title": "Smart Contract Audit - K3 sBOLD - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6840635a03061900dd44dffb_ChainSecurity_K3_Capital_sBOLD_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/intmax-2-smart-contracts",
+    "title": "Smart Contract Audit - Intmax 2 Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6825bc5d8304afe69f174187_ChainSecurity_Intmax_Intmax_2_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/liquity-bold-smart-contracts-2",
+    "title": "Smart-Contract Audit - Liquity Bold - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/682616683c6f2efc5179879b_ChainSecurity_Liquity_Bold_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/liquity-bold-smart-contracts",
+    "title": "Smart Contract Audit - Liquity V2 - Bold - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/682616683c6f2efc5179879b_ChainSecurity_Liquity_Bold_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/mellow-multivault-smart-contracts",
+    "title": "Smart Contract Audit - Mellow Multivault - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/678e880c6913693575d646ef_ChainSecurity_Mellow_Finance_Multivault_audit%201.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/polygon-vault-bridge-token",
+    "title": "Smart Contract Audit - Polygon Vault Bridge Token - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6834297df9d15295155c42c5_ChainSecurity_Polygon_Vault_Bridge_Token_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/ultrayield-smart-contracts",
+    "title": "Smart-Contract Audit - UltraYield - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6826190739e89b7d2aea28ce_ChainSecurity_Ultra_UltraYield_audit%201%20(1)%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/intmax-2-zkp-circuits",
+    "title": "Intmax 2 ZKP Circuits Review by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6825d204e4eb6b9abbe7f465_ChainSecurity_Intmax_Intmax_2_ZKP_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/sky-chief-migration-smart-contracts",
+    "title": "Smart contract audit - Chief Migration Smart Contracts -ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6818c75c7ac6b9e648bf0006_ChainSecurity_Sky_Chief_Migration_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-lockstake-smart-contracts",
+    "title": "Smart contract audit - Lockstake Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6818c655d5269bb234b1e431_ChainSecurity_Sky_Lockstake_audit%201.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-dss-emergency-spells",
+    "title": "Smart Contract Audit - Sky DSS Emergency Spells - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/680b3b1f4de6503864603b4a_ChainSecurity_Sky_DSS_Emergency_Spells_audit%201.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/limited-review-vyper-compiler-0-4-2-pull-requests",
+    "title": "Limited Review - Vyper Compiler 0.4.2 Pull Requests - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/68485ccb56a66e29796892d0_ChainSecurity_Vyper_Vyper_Compiler_limited_review.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-votedelegate-smart-contracts",
+    "title": "Smart contract audit - Sky VoteDelegate Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6818c86d376628640eb97d97_ChainSecurity_Sky_VoteDelegate_audit%201%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/wbtc-solana-bridge",
+    "title": "Smart contract audit - WBTC Solana Bridge - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/68356dd09f524e93c736fa9c_ChainSecurity_WBTC_Solana_WBTC_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-protego-smart-contracts",
+    "title": "Smart Contract Audit - Sky Protego Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6801254abd031ddcbc3a931e_ChainSecurity_Sky_Protego_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/gearbox-permissionless-smart-contracts",
+    "title": "Smart contract audit - Gearbox Permissionless Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/680a83ccd9d4eedf0dc57f27_ChainSecurity_Gearbox_Permissionless_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/symbiotic-default-rewards",
+    "title": "Smart Contract Audit - Symbiotic Default Rewards - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67f4de6820f67e1b6cb7345f_ChainSecurity_Symbiotic_Default_Rewards_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/sulu-extensions-xxiii",
+    "title": "Smart contract audit - Enzyme Sulu Extensions XXIII - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67f37c3433dc9af70ca6de41_ChainSecurity_Enzyme_Foundation_Sulu_Extensions_XXIII_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/deuro-smart-contracts",
+    "title": "Smart contract audit - dEURO Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67f3ce31887302b3716a56a9_ChainSecurity_dEURO_dEURO_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/spark-alm-controller",
+    "title": "Smart Contract Audit - Spark ALM Controller - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67f388d176bea05e53684aff_ChainSecurity_SparkDAO_Spark_ALM_Controller_audit%201.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/eulerswap",
+    "title": "Smart Contract Audit - EulerSwap - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/683ef97950625a71ad2728df_ChainSecurity_EulerSwap_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/gearbox-core-oracles-v3-10",
+    "title": "Smart contract audit - Gearbox Core & Oracles V3.10 - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/680a8552b47c21da89ebe9ec_ChainSecurity_Gearbox_Core_%26_Oracles_V3_10_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/sky-sp-beam-module",
+    "title": "Smart contract audit - Sky SP-BEAM Module - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67f3881327ec9d86b4174e80_ChainSecurity_Sky_SP-BEAM_Module_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/sky-chief-smart-contracts",
+    "title": "Smart contract audit - Chief Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6818cf861d0508ddf68b40a7_ChainSecurity_Sky_Chief_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/sky-rates-converter",
+    "title": "Smart contract audit - Sky Rates Converter - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67f381887a18835e25584e29_ChainSecurity_Sky_Rates_Converter_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/limited-review-fume-finance-smart-contracts",
+    "title": "Limited Review - Fume Finance - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67ed1574a94ee5d94644aeed_ChainSecurity_Fume_Protocol_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/openeden-usdoexpress",
+    "title": "Smart Contract Audit - OpenEden USDOExpress - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67d2a4597b8d981face661a8_ChainSecurity_OpenEden_Labs_USDOExpress_audit_final.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/openeden-usdo",
+    "title": "Smart Contract Audit - OpenEden USDO - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67d2bc5203f21182fc2aef81_ChainSecurity_OpenEden_USDO_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/sparkrewards",
+    "title": "Smart Contract Audit",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67c5c2fc42bb0376a2b0ffa7_ChainSecurity_SparkDAO_SparkRewards_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/sky-dss-blow2",
+    "title": "Smart Contract Audit - Sky DSS Blow2 - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67b8b3e0cf767b9a7bf0de4d_ChainSecurity_Sky_DSS_Blow2_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/curve-stablecoin",
+    "title": "Curve Stablecoin smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67ba05bd4e6213f1816eb452_ChainSecurity_Curve_Curve_Stablecoin_audit_250221.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/yelay-lite-smart-contracts",
+    "title": "Smart Contract Audit - Yelay Lite - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67b84ddc4a82303d8a55d925_ChainSecurity_Yelay_Yelay_Lite_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/uniswap-franchiser-expiry",
+    "title": "Smart Contract Audit - Uniswap Franchiser Expiry - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67ac9d27fa5fa31987f49197_ChainSecurity_Uniswap_Foundation_Franchiser_Expiry_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/unstoppable-wallet",
+    "title": "Smart Contract Audit - Unstoppable Wallet - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67dd3bb1d5e6fda602deded9_ChainSecurity_Unstoppable_Unstoppable_Wallet_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/usdt0-arbitrum-v2",
+    "title": "Smart Contract Audit - USDT0 Arbitrum v2 - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/679b47386fc89b608cdd5594_ChainSecurity_USDT0_Arbitrum_v2_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/usdd-v2-smart-contracts",
+    "title": "Smart Contract Audit - USDD V2 Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/679936057a140131fdf550a2_ChainSecurity_Decentralized_USD_USDD_V2_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/decentralized-usd-psm-smart-contracts",
+    "title": "Smart Contract Audit - Decentralized USD PSM Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6799331b02c71019a3c28239_ChainSecurity_Decentralized_USD_PSM_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/usdd-exchange-smart-contracts",
+    "title": "Smart Contract Audit - USDD Exchange Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/679931bccdafa4dcfdb86d31_ChainSecurity_Decentralized_USD_Exchange_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/spark-vaults",
+    "title": "Smart Contract Audit - Spark Vaults - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6797b44fcd7808c05648ffaf_ChainSecurity_SparkDAO_Spark_Vaults_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/mellow-symbiotic-vault",
+    "title": "Smart Contract Audit - Mellow Symbiotic Vault - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67934664834da1a4ee2ad741_Mellow_Finance_Symbiotic_Vaults_Smart%20Contract%20Audit_ChainSecurity.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/liquity-v2-voting",
+    "title": "Smart Contract Audit - Liquity V2 - Voting Smart Contracts",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6791109c42dffd7d3525611b_Liquity_V2_Governance_audit_Liquity_ChainSecurity.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/xchain-ssr-oracle",
+    "title": "Smart Contract Audit - XChain SSR Oracle - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6797af92a5a866ccb1cec1a4_ChainSecurity_SparkDAO_XChain_SSR_Oracle_audit%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/usdt0-smart-contracts",
+    "title": "Smart Contract Audit - USDT0 smart contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6787dd728d349f67effee7e4_ChainSecurity_USDT0_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/velodrome-epoch-governor",
+    "title": "Smart Contract Audit - Velodrome Epoch Governor - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6798a89c80da935eebbc3937_ChainSecurity_Velodrome_Epoch_Governor_audit%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-sparklend-advanced",
+    "title": "MakerDAO SparkLend Advanced smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/677bc7b9b98a32fbb6cd2c84_ChainSecurity_SparkDAO_SparkLend_Advanced_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/curve-scrvusd",
+    "title": "Smart Contract Audit - Curve scrvUSD - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/675b1eec1aee093a5e432a16_ChainSecurity_Curve_scrvUSD_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/kernel-smart-contracts",
+    "title": "Smart Contract Audit - Kernel Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/677289c9b2a5ff641ff2d3d0_ChainSecurity_Kernel_DAO_Kernel_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/frankencoin-v2024",
+    "title": "Smart Contract Audit - Frankencoin v2024 - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/674873bff5163fea0b1d9faa_ChainSecurity_Frankencoin_Frankencoin_v2024_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-31third-adapter",
+    "title": "Enzyme 31Third Adapter smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6740a15b30521a6df1cd2cc3_ChainSecurity_Avantgarde_Finance_Enzyme_31Third_Adapter_audit%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/velodrome-superchain-slipstream",
+    "title": "Smart Contract Audit - Velodrome Superchain Slipstream - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/673ac490e39e851c1f4eb780_ChainSecurity_Velodrome_Superchain_Slipstream_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/symbiotic-burners-smart-contracts",
+    "title": "Smart Contract Audit - Symbiotic Burners Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67868e463b8c78d2dcd89208_ChainSecurity_Symbiotic_Burners_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/swaap-v2-euler-adapter",
+    "title": "Smart Contract Audit - Swaap v2 Euler Adapter - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/673d357064167b87eb9e04a5_ChainSecurity_Swaap_Labs_Swaap_v2_Euler_Adapter_audit%20(2).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/velodrome-superchain-interoperability",
+    "title": "Smart Contract Audit - Velodrome Superchain Interoperability - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6749c1a5d721a8e0c80c4ca0_ChainSecurity_Velodrome_Superchain_Interoperability_audit%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/superchain-diff",
+    "title": "Smart contract Audit - Velodrome Superchain diff - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6749bddbbe9786bfc0278940_ChainSecurity_Velodrome_Superchain_diff_audit%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/legend-labs-quark-v2-and-quark-scripts",
+    "title": "Smart contract audit - Legend Labs Quark V2 and Quark Scripts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/672cf193350895fd70c85137_ChainSecurity_Legend_Labs_Quark_V2_and_Quark_Scripts_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/spark-psm",
+    "title": "Smart Contract Audit - Spark PSM - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6717c8b96db944f76d0612e3_ChainSecurity_SparkDAO_Spark_PSM_audit%201.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/tron-peg-usd-coin-usdc",
+    "title": "Smart Contract Audit - TRON-peg USD Coin (USDC) - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/672cc4a91b2c54daa9073883_ChainSecurity_JustCrypto_Tron-peg_USD_Coin_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/maker-endgame-toolkit",
+    "title": "Maker EndGame Toolkit Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6710bebb6c0de5475bf3cf00_ChainSecurity_MakerDAO_Endgame_Toolkit_contracts_audit%201.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-arbitrum-token-bridge",
+    "title": "Smart Contract Audit - MakerDAO Arbitrum Token Bridge - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6710ba0b85d2eebb99a2b037_ChainSecurity_MakerDAO_Arbitrum_Token_Bridge_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-op-token-bridge",
+    "title": "Smart Contract Audit - MakerDAO OP Token Bridge - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67068f750fcdc15039e19978_ChainSecurity_MakerDAO_OP_Token_Bridge_audit%202.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/sulu-aavev3-flashloan",
+    "title": "Smart Contract Audit - Sulu AaveV3 Flashloan - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/671276afb4fa07ca44fc4e9c_ChainSecurity_Enzyme_Foundation_Sulu_AaveV3_Flashloan_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-sky-deployment-scripts",
+    "title": "Smart Contract Audit - MakerDAO Sky Deployment Scripts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66ff9184ed96fd5a549fd955_ChainSecurity_MakerDAO_Sky_deployment_audit%201.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-savings-nst",
+    "title": "Smart contract audit - MakerDAO Savings USDS - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66ff9245871d841786c35f40_ChainSecurity_MakerDAO_Savings_USDS_audit%201.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/curve-fee-splitter",
+    "title": "Smart Contract Audit - Curve Fee Splitter - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66fd4e90b21988635652e10b_ChainSecurity_Curve_Fee_Splitter_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/nst-smart-contracts",
+    "title": "Smart contract audit - USDS Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66ff91ef772a36da6f36b075_ChainSecurity_MakerDAO_USDS_audit%201.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-op-farms-smart-contracts",
+    "title": "Smart Contract Audit - MakerDAO OP Farms Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66f17bd8c5ec6d5d123854e9_ChainSecurity_MakerDAO_OP_Farms_audit%201.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/uniswap-franchiser-smart-contracts",
+    "title": "Smart Contract Audit - Uniswap Franchiser Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66ea83dea0e73020fd87116d_Uniswap%20Security%20Audit_ChainSecurity_Uniswap_Foundation_Franchiser_Uniswap%20Smart%20contract%20audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/xchain-dsr-oracle",
+    "title": "Smart contract audit - SparkDAO XChain SSR Oracle - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66e311345b7b3042db8a795a_ChainSecurity_SparkDAO_XChain_SSR_Oracle_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-d3m-aavev3-usds-pool",
+    "title": "Smart Contract Audit - MakerDAO D3M AaveV3 USDS Pool - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66e069802be1c360353c467b_ChainSecurity_MakerDAO_D3M_AaveV3_USDS_Pool_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-allocator-deployment-scripts",
+    "title": "MakerDAO Allocator Deployment Scripts smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66def8c87b93074b7e43471d_ChainSecurity_MakerDAO_Allocator_deployment_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-dss-allocator",
+    "title": "MakerDAO - DSS Allocator Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66def894d41e7099d6596af2_ChainSecurity_MakerDAO_DSS_Allocator_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/swell-symbiotic-aera-adapter",
+    "title": "Smart Contract Audit - Swell Symbiotic-Aera Adapter - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66e055e18d290d9669c5c347_ChainSecurity_Swell_Symbiotic-Aera_Adapter_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/swbtc-smart-contracts",
+    "title": "Smart Contract Audit - Swell swBTC Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66e057694e4fac3a4c53fc23_ChainSecurity_Swell_Finance_swBTC_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-usds-wrappers",
+    "title": "Smart Contract Audit - MakerDAO USDS Wrappers - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66df0784a1e6d76b05ac435e_ChainSecurity_MakerDAO_USDS_Wrappers_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-xix",
+    "title": "Smart contract audit - Enzyme Sulu Extensions XIX - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66cca3f760b8f175ca8f2f7e_ChainSecurity_Enzyme_Foundation_Sulu_Extensions_XIX_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/pol-transition-smart-contracts",
+    "title": "Smart contract - POL Transition Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66cf1401db5fd55afcd3e66f_ChainSecurity_Polygon_POL_Transition_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-xviii",
+    "title": "Smart contract - Enzyme Sulu Extensions XVIII - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66cca24e6c560e9a4b71dabc_ChainSecurity_Enzyme_Foundation_Sulu_Extensions_XVIII_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/java-tron",
+    "title": "Limited Review - Java-Tron - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66e46c35ab66524bfcfb2166_ChainSecurity_Tron_Java-Tron_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/pendle-v2-core",
+    "title": "Smart contract audit - Pendle V2 Core - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66be2c77e32da81604316498_ChainSecurity_Pendle_Finance_Pendle_V2_Core_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-xv",
+    "title": "Smart contract audit - Enzyme Sulu Extensions XV - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66be296c9f2eda43393e97f8_ChainSecurity_Enzyme_Foundation_Sulu_Extensions_XV_audit%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/m-zero-wrapped-m-token",
+    "title": "Smart Contract Audit - M^ZERO Wrapped M Token - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67a5e285b128fad4de5fe5c6_ChainSecurity%20Wrapped%20M%20Audit%20Report.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/symbiotic-core",
+    "title": "Smart Contract Audit - Symbiotic Core - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67869195e7443b85ddeed0ae_ChainSecurity_SymbioticFi_Core_audit_240813.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-arbitrum-farms",
+    "title": "Smart contract audit - MakerDAO Arbitrum Farms - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66bf5db35202541c64829a53_ChainSecurity_MakerDAO_Arbitrum_Farms_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/vesu-protocol-smart-contracts",
+    "title": "Smart Contract Audit - Vesu Protocol Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66b4ae8f801c9dda7288264f_ChainSecurity_VESU_Vesu_Protocol_audit%20(4).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/summer-fi-dma-v2-ii-smart-contracts",
+    "title": "Smart contract audit - Summer.fi DMA v2 II Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66851048cb62655233fd5d9b_ChainSecurity_Summer_fi_DMA_v2_II_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/everstake-eth-b2c-staking-dummy",
+    "title": "Smart Contract Audit - ETH B2C Staking Dummy - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66e46fe944dc833bc1597f7c_ChainSecurity_Everstake_ETH_B2C_Staking_Dummy_audit_240621.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/limited-code-review---fuel-sway-optimizations",
+    "title": "Smart contract audit - Fuel Network - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6683cae87cb41c3742d94c64_ChainSecurity_Fuel_Sway_Optimizations_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/everstake-eth-b2c-staking-2",
+    "title": "Smart Contract Audit - Everstake ETH B2C Staking - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66e46e32df58f978aa04c126_ChainSecurity_Everstake_ETH_B2C_Staking_audit_240621.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/lido-lip-23-rebase-check-smart-contracts",
+    "title": "Smart Contract Audit - Lido LIP-23: Rebase Check Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/669e6c6d1f408ec9bee9777e_ChainSecurity_Lido_LIP-23_Rebase_Check_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/vyper-compiler-abi-decoder-and-v0-4-0-pull-requests",
+    "title": "Smart contract audit - Vyper Compiler ABI decoder and v0.4.0 pull requests - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/667970cc087b568f42a05e23_ChainSecurity_Vyper_June_2024_limited_review.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/frax-bamm-smart-contracts",
+    "title": "Smart Contract Audit - Frax BAMM - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66a0c4b7fa5345f8661885d8_ChainSecurity_Frax_Finance_BAMM_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/euler-vault-kit",
+    "title": "Smart contract audit - Euler Vault Kit - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66c6f4820891eb675ce04a26_ChainSecurity_Euler_Euler_Vault_Kit_audit%201.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/dfm-core",
+    "title": "Smart contract audit - DFM Core - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6675a29521f8a64a83c544b7_ChainSecurity_DeFi_Money_DFM_Core_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/compound-quark-smart-contracts",
+    "title": "Smart contract audit - Compound Quark Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6683faf863080a2260c57513_ChainSecurity_Compound_Quark_audit.pdf",
+      "https://compound.finance/documents/Compound.Whitepaper.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/argent-account",
+    "title": "Smart contract audit - Argent Account - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6675a002974368d2b308d87a_ChainSecurity_Argent_Argent_Account_audit%20(2).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/euler-price-oracles",
+    "title": "Smart contract audit - Euler Price Oracles - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645bea13e441e3a4c3aa6c6_ChainSecurity_Euler_Price_Oracles_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/trinity-smart-contracts",
+    "title": "Smart contract audit - Trinity - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/668280332b8b9e48c0c014c6_ChainSecurity_Trinity_Trinity_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/euler-ethereum-vault-connector",
+    "title": "Smart contract audit - Euler Vault Connector - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645bedce29a3410a931e0c4_ChainSecurity_Euler_Ethereum_Vault_Connector_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/moebius-protocol-smart-contracts",
+    "title": "Smart contract audit - Moebius Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66bc7fc78a5f7bd01ecfc41b_ChainSecurity_Moebius_Protocol_audit%20(2).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/m-zerprotocol-and-governance",
+    "title": "Smart Contract Audit - M^ZERO Protocol and Governance - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67a5e6ffdc2fcf46f8facaa2_ChainSecurity_M%5EZERO_Labs_Protocol_and_Governance_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/yieldnest-protocol",
+    "title": "Smart contract audit - YieldNest Protocol - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645bfa88ad0b7226129c0c6_ChainSecurity_YieldNest_YieldNest_Protocol_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/subsquid-smart-contracts",
+    "title": "Smart contract audit - Subsquid - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6675a3e947c1d2e16b17c1b1_ChainSecurity_Subsquid_Subsquid_audit%20(2).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/swaap-earn-protocol",
+    "title": "Smart contract audit - Swaap Earn Protocol - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6675a4d8ec3f3c1c6b16d0c7_ChainSecurity_Swaap_Labs_Swaap_Earn_Protocol_audit%20(2).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/polymarket-negriskadapter",
+    "title": "Polymarket NegRiskAdapter smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/662bb1a9d7d828af49e9f66e_ChainSecurity_Polymarket_NegRiskAdapter_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/polymarket-proxy-wallet-factories",
+    "title": "Polymarket Proxy Wallet Factories smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/662bafcb81dc2f781bd680da_ChainSecurity_Polymarket_Proxy_Wallet_Factories_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/polymarket-conditional-tokens",
+    "title": "Polymarket Conditional Tokens smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/662bad88a19be0834c4bcb94_ChainSecurity_Polymarket_Conditional_Tokens_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-d3m-erc4626",
+    "title": "MakerDAO - D3M ERC-4626 - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/662f72dca6fcb4a1003a8276_ChainSecurity_MakerDAO_D3M_ERC-4626_Smart-Contract-Audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/gearbox-v3-core",
+    "title": "Smart Contract Audit - Gearbox V3 - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/670f8a78eb3de411d2966ea7_ChainSecurity_Gearbox_Protocol_Gearbox_V3_Core_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/offchain-labs-fund-distribution",
+    "title": "Smart Contract Audit - Offchain Labs Fund Distribution - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66993032db51a5705eea4955_ChainSecurity_Offchain_Labs_Fund_Distribution_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-direct-deposit-v2",
+    "title": "MakerDAO-Direct Deposit V2 - Smart Contract Audit by Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643e470e47d5813df75c9a3_ChainSecurity_MakerDAO_Direct_Deposit_V2_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/security-council-aip",
+    "title": "Smart Contract Audit - Arbitrum Foundation Security Council AIP - Security Council AIPChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66992cc85d04ab341248a1f3_ChainSecurity_Arbitrum_Foundation_Security_Council_AIP_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-kill-switch",
+    "title": "MakerDAO Kill Switch Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/662f73c63bab7ca6d4e53503_ChainSecurity_Sparklend_Kill_Switch_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-core-updates-to-sparklend",
+    "title": "MakerDAO Core Updates to SparkLend smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/662f76cdfd99c56213db3479_ChainSecurity_Sparklend_Core_Updates_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-sparklend-freezer",
+    "title": "MakerDAO SparkLend Freezer smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/662f7a59fbe87a58cccccf29_ChainSecurity_MakerDAO_SparkLend_Freezer_audit-1_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-iv-smart-contracts",
+    "title": "Enzyme Sulu Extensions IV Smart Contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6798f489137c6687509d8129_ChainSecurity_Avantgarde_Finance_Sulu_Extensions_IV_audit%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/limited-review-vyper-compiler-modules",
+    "title": "Vyper Compiler Modules limited code review by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663b5d418595ecae8ca0dd6f_ChainSecurity_Vyper_February_2024_limited_review-1.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/stusdt-smart-contracts",
+    "title": "Smart contract audit - stUSDT - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66825d2e79a1f04cd0a14193_ChainSecurity_stUSDT_stUSDT_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/conic-protocol",
+    "title": "Conic Protocol smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663b5dd035914ebdd0dd549a_ChainSecurity_Conic_Conic_Protocol_audit_compressed.pdf",
+      "https://chainsecurity.com/wp-content/uploads/2024/02/ChainSecurity_Conic_Conic_Protocol_audit-3.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-sparklend-cap-automator",
+    "title": "MakerDAO Sparklend Cap Automator smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663b60e26427a9e3c665b8c5_ChainSecurity_MakerDAO_Sparklend_Cap_Automator_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/htx-dao-htx-token",
+    "title": "HTX Token Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663b73a4e789de91d7fe3b2d_HTX-DAO-Smart-Contract-Audit-_-HTX-Token-_-ChainSecurity.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/layerzero-oft-oapp",
+    "title": "LayerZero OFT/OApp smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663b6904d48ad1f36b691588_ChainSecurity_LayerZero_OFT_OApp_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/sulu-extensions-xiv",
+    "title": "Enzyme Sulu Extensions XIV smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663b791ae6799e954869fc5d_ChainSecurity_Avantgarde_Finance_Sulu_Extensions_XIV_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/divergence-protocol-v1c",
+    "title": "Divergence Protocol v1c smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663ca24b5adc280e7e3fc6ed_ChainSecurity_Tenet_Technology_Ltd_Divergence_Protocol_v1c_audit-2_compressed.pdf",
+      "https://www.divergence-protocol.com/diver_v1AMM_paper.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/limited-review-vyper-compiler-built-ins-and-bytecode-generation",
+    "title": "Vyper Compiler Built-ins and Bytecode Generation limited code review by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663cbdd658211aba1cfd40b4_ChainSecurity_Vyper_December_2023_limited_review.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/curve-pegkeeperv2",
+    "title": "Curve PegKeeperV2 smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663d7daf32efc5d08e373aa5_ChainSecurity_Curve_PegKeeperV2_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-xii",
+    "title": "Enzyme Sulu extensions XII smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663cbb4a5ca52ee5df570a9b_ChainSecurity_Avantgarde_Finance_Sulu_Extensions_XII_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/gearbox-v3-oracles-2",
+    "title": "Gearbox V3 Oracles smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663d7ddaadd4bcb6e1c5ddea_ChainSecurity_Gearbox_Protocol_Gearbox_V3_Oracles_audit_compressed%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/mangrove-strategies",
+    "title": "Mangrove strategies smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663d7d5117c0efc9f6140dd3_ChainSecurity_Mangrove_Association_Mangrove_Strategies_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/mangrove-core",
+    "title": "Mangrove Core Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663d7e80fa159fb0e40c9be5_ChainSecurity_Mangrove_Association_ADDMA_Mangrove_Core_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-sparklendconduit",
+    "title": "MakerDAO SparkLendConduit Smart Contracts audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663d811f101c691e2524fb97_ChainSecurity_MakerDAO_SparkLendConduit_audit-1_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-arrangerconduit",
+    "title": "MakerDAO - ArrangerConduit Smart Contracts audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663d802717c0efc9f6168b66_ChainSecurity_MakerDAO_ArrangerConduit_audit-1_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/frankencoin-smart-contracts",
+    "title": "Frankencoin smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663d81c62299848a4944ff70_ChainSecurity_Frankencoin_Frankencoin_audit_compressed%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/spool-v2-smart-contracts",
+    "title": "Spool V2 Smart Contracts smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/663d75953631715d97384231_ChainSecurity_Spool_Spool_V2_audit-2_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/sturdy-aggregator-smart-contracts",
+    "title": "Sturdy Aggregator Smart Contracts audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6641ef9985ba4861bbae6418_ChainSecurity_Sturdy_Sturdy_Aggregator_audit%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/starknetid-auto-renew",
+    "title": "StarknetID Auto Renew smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6641fefdcd7cbbd24b827916_ChainSecurity_StarknetID_Auto_Renew_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/mimo-capital-mcag-contracts-security-audit",
+    "title": "Mimo Capital MCAG Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6642043c9942cf8504bd5987_ChainSecurity_Mimo_Capital_AG_MCAG_Contracts_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/kuma-protocol",
+    "title": "Kuma protocol smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664204782c5a15ef64589a6f_ChainSecurity_Mimo_Initiative_lt_Kuma_Protocol_audit%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/polygon-token-pol",
+    "title": "Polygon Token (POL) smart contract audit by ChainSecurity",
+    "pdfLinks": []
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/xena-smart-contracts",
+    "title": "Xena smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6642042415a947391ecc69ec_ChainSecurity_Xena_Finance_Xena_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/eip-4788-contract",
+    "title": "EIP-4788 Contract audit by ChainSecurity.",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664203f92deb52f6d21723cb_ChainSecurity_Ethereum_Foundation_EIP-4788_Contract_Audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/bancor-v3",
+    "title": "Bancor v3 - Chainsecurity Smart Contract Audit",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643e888dbce9d8078dbd866_ChainSecurity_Bancor_Bancor_v3_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/circle-perimeter-smart-contracts",
+    "title": "Circle Perimeter smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66430ccdcde6be3c58348351_ChainSecurity_Circle_Perimeter_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme---sulu-extensions-xiii",
+    "title": "Enzyme Sulu Extensions XIII smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66430d8d99341eefe4883ed0_ChainSecurity_Avantgarde_Finance_Sulu_Extensions_XIII_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/limited-review-vyper-compiler-semantic-analysis-and-code-generation",
+    "title": "Vyper Compiler, Semantic analysis and Code generation limited code review by ChainSecurity.",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66430ec9b50e782b409a0237_ChainSecurity_Vyper_September_2023_limited_review_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/everstake-eth-b2c-staking",
+    "title": "Everstake eth-b2c Staking - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664306838b0f7c80959ed1b3_Smart-Contract-Audit-Everstake-ETH-B2C-Staking-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/gearbox-v3-governance",
+    "title": "Gearbox V3 Governance smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/677bd2148871322da9542de4_ChainSecurity_Gearbox_Gearbox_V3_Governance_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/summer-fi-automation-v2-smart-contracts",
+    "title": "Summer.fi Automation V2 Smart Contracts audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664265efd9187286966fdf15_ChainSecurity_Summer_fi_Automation_V2_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/firetoken-smart-contracts",
+    "title": "FireToken smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664266ada32c02301670c26e_ChainSecurity_Fire_Group_Ltd_Firetoken_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/summer-fi-defi-modular-actions-v2",
+    "title": "Summer.fi DeFi Modular Actions v2 smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664261ab4886c7b49aeff6cc_ChainSecurity_Summer_fi_DeFi_Modular_Actions_v2_audit_compressed%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/yldr-com",
+    "title": "yldr.com smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664260b2b802dc5ef4259c40_ChainSecurity_yldr_com_yldr_com_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/maker-flapperuniv2swaponly",
+    "title": "Maker FlapperUniV2SwapOnly - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66431623a6ec39285524ccda_ChainSecurity_MakerDAO_FlapperUniV2SwapOnly_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-interest-rate-strategy",
+    "title": "MakerDAO interest rate strategy smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664315ac472e9b4cf1b8aff2_ChainSecurity_MakerDAO_Interest_Rate_Strategy_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/limited-review-vyper-compiler-ir-optimizer-and-safe-math-module",
+    "title": "Vyper Compiler IR optimizer and safe-math module limited code review by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643f01f3a0d0327644d55f1_ChainSecurity_Vyper_July_2022_limited_review_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-xi",
+    "title": "Enzyme Sulu extensions XI smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664316be0b4b1a63db801e21_Enzyme.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-rwa-toolkit",
+    "title": "MakerDAO - RWA Toolkit - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664318a6aef9a205d8bdc0bf_Smart-Contract-Audit-_-MakerDAO_RWA_Toolkit_-ChainSecurity-audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/truefi-fluorine-smart-contracts",
+    "title": "TrueFi Fluorine Smart Contracts audit by ChainSecurity.",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643197acfd8b33e4c305d96_ChainSecurity_TrueFi_Fluorine_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/truefi-carbon-smart-contracts",
+    "title": "TrueFi Carbon Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66431fed6bc5d44fc9294569_TrueFi_Carbon_-Smart-Contract-Audit-_-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/chronicle-scribe-makerdao",
+    "title": "Chronicle - Scribe - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66431a4b0b4b1a63db83163b_Smart-Contract-Audit_Chronicle_Scribe_MakerDAO-audit-_-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/snapshot-x-smart-contracts",
+    "title": "Smart Contract Audit - Snapshot X - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67c58a9d2faae2c2c6c5ff87_ChainSecurity_Snapshot_Snapshot_X_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/maker-flapperuniv2",
+    "title": "Maker FlapperUniV2 Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664328da0b4b1a63db8ebf29_ChainSecurity_MakerDAO_FlapperUniV2_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/kyberswap-elastic",
+    "title": "KyberSwap Elastic - ChainSecurity Smart contract Audit",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66432677f2ce3d3541b5b44f_ChainSecurity_Kyber_Network_KyberSwap_Elastic_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/oasis-savings-dai",
+    "title": "Oasis Savings DAI Smart Contract Audit report by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66432be63d48d45c008a6a0e_ChainSecurity_Oazo_Apps_Limited_Savings_Dai_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-x",
+    "title": "Enzyme Sulu extensions X smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66432c518eaba90c648cf0e9_2023-05-CS-zero-ex-v4-1inch-v5-paraswap-v5-updates-gated-shares-wrapper-updates-1_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/yearn-tokenized-strategy",
+    "title": "Yearn Tokenized Strategy Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664350540768a2fda9958e8e_Yearn-Smart-Contract-Audit-_-Tokenized_Strategy_ChainSecurity.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/circle-cross-chain-transfer-protocol-cctp",
+    "title": "Circle CCTP Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664351421ab2ba7371e2082c_circle.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/yearn-v3-vaults",
+    "title": "Yearn Vaults V3 Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66434e0c64e48352a651cae1_Yearn-Smart-Contract-Audit_V3_Vaults_-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/usdfi-amm-gauges-and-bribes-smart-contracts",
+    "title": "USDFI smart contract audit ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664351d0c483692c3f01f9b6_USDFI-Smart-Contract-Audit_AMM_Gauges_and_Bribes_ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/polygon-pos-portal-smart-contracts",
+    "title": "Polygon PoS Portal Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664354c0cefd81dc0ba79b81_Polygon_PoS_Portal_-Smart-Contract-Audit_ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/bancor-carbon",
+    "title": "Bancor Carbon Smart Contract Audit ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664355ad2940d9df99f59a1b_Bancor-Smart-Contract-Audit-_-Carbon-_-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-zksync-dai-bridge",
+    "title": "MakerDAO zkSync-DAI Bridge audit by ChainSecurity (Not deployed)",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645bb4751ef1aa77e9c3bde_ChainSecurity_MakerDAO_zkSync_DAI_Bridge_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/truefi-archblock-portfolio-debt-token",
+    "title": "Archblock TrueFi - Portfolio Debt Token - Smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643b9708b041e21c0eb728e_ChainSecurity_Archblock__TrueFi_Portfolio_Debt_Token_audit%20(2)_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/yearn-oyfi",
+    "title": "Yearn Smart Contract Audit - oYfi - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66437758fdd721d467d43a38_Yearn-Smart-Contract-Audit-oYfi-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/archblock-truefi-controllers-for-truefi-carbon",
+    "title": "Archblock TrueFi Smart Contract Audit - Controllers for TrueFi Carbon - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66436732bd35fee26890e708_Archblock-TrueFi-Smart-Contract-Audit-Controllers-for-TrueFi-Carbon-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-ix",
+    "title": "Enzyme - Sulu Extensions IX - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643d18f26aeb0d0a60f633c_ChainSecurity_Avantgarde_Finance_Sulu_Extensions_IX_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/limited-review-vyper-compiler-front-end-type-system",
+    "title": "Vyper Compiler Front-End Type System limited code review by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664507e0a16ce678c8d30a29_ChainSecurity_Vyper_January_2023_limited_review_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enso-weiroll-smart-contracts",
+    "title": "Enso-Weiroll Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643d27d218ac576e3345fa3_Enso-Weiroll-smart-contract-audit-by-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/lido-staking-router",
+    "title": "Lido Smart contract audit by ChainSecurity - Lido Staking Router",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645075643d64f16da97bdff_ChainSecurity_Lido_Staking_Router_Smart-Contract-Audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/compound-iii",
+    "title": "Smart contract audit of Compound III by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/662ba3a8f252498c39374039_ChainSecurity_Compound_Comet_audit_May-30th-2022-1_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/stakedao-bribe-platform-security-audit",
+    "title": "Smart Contract Audit - StakeDao Bribe Platform - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643d3c05ec68dc4ed27515d_Smart-Contract-Audit_StakeDao_Bribe_Platform_-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/oasis-positionmanager",
+    "title": "Oasis Position Manager Smart Contract Audit report by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643d4e04943e25438dc6313_ChainSecurity_Oasis_PositionManager_audit-1_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-gemjoin9-for-paxg-smart-contract",
+    "title": "MakerDAO GemJoin9_for_PAXG_Smart Contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643d45bb9017701fd874a4a_ChainSecurity_MakerDAO_GemJoin9_for_PAXG_Smart-Contract-audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/q-blockchain-system-contracts-v1-2",
+    "title": "Q Blockchain - System contracts v1.2 - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643cbefd98da859f4228baa_ChainSecurity_Q_Blockchain_System_contracts_v1_2_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/mangrove-dss-vest-smart-contracts-security-audit",
+    "title": "Mangrove dss-vest smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643cec6f09f5a6c5839ebe7_ChainSecurity_Giry_dss-vest_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/mangrove-order",
+    "title": "Mangrove Order smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643cf3b5b1f412132ec1128_ChainSecurity_Giry_SAS_MangroveOrder_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/1inch-erc20-pods",
+    "title": "1inch Smart Contract Audit - ERC20 Pods - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643caf10062bab85baf39e2_1inch-Smart-Contract-Audit-ERC20-pods-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/zkbob-smart-contracts-security-audit",
+    "title": "zkBob smart contract audit report by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643d020ff1b6c692eb615a8_ChainSecurity_BOB_Protocol_zkBob_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/1inch-limit-order-settlement",
+    "title": "1inch Smart Contract Audit - Limit Order Settlement - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643cbb60062bab85bafe919_1inch-Smart-Contract-Audit-Limit-Order-Settlement-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/1inch-delegation",
+    "title": "1inch Smart Contract Audit - Delegation - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643ca06ad9912ba6281e43e_1inch-Smart-Contract-Audit-Delegation-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/polygon-fx-portal",
+    "title": "Polygon Fx Portal Smart Contract Audit Report - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643c979dfc7aa5124646d24_ChainSecurity_Polygon_Fx_Portal_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-viii-smart-contracts",
+    "title": "Enzyme Sulu Extensions VIII Smart Contracts - Audit by Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643dee5f0c5b1314d8b7c5b_Enzyme-Sulu-Extensions-VIII-Smart-Contract-audit-by-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/gearbox-auction",
+    "title": "Smart Contract Audit - Gearbox Auction - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/677bd39593eef75721cba253_GEARBOX_AuctionSmart_Contract_Audit_by_ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/kyberswap-elastic-legacy",
+    "title": "KyberSwap Elastic Legacy - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66448d7582cab0bf1115a063_ChainSecurity_Kyber_Network_KyberSwap_Elastic_Legacy_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/claystack-matic-november-2022",
+    "title": "Smart contract audit - ClayStack Matic Smart Contracts - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643dcb1b36d4874785f1130_ChainSecurity_ClayStack_ClayStack_Matic_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/compound-ctoken-unredacted",
+    "title": "Compound - cToken (unredacted) - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66448da5c96ba7e7f08095b1_ChainSecurity_Compound_cToken_audit_compressed.pdf",
+      "https://compound.finance/documents/Compound.Whitepaper.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/uniswap-permit2",
+    "title": "Uniswap - Permit2 Smart Contract Audit - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643e26f930b1d92958b9c7e_ChainSecurity_Uniswap_Permit2_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-g-uni-lp-oracle",
+    "title": "MakerDAO - G-UNI LP Oracle - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66448cecdbdfdca5cd14eaa7_ChainSecurity_MakerDAO_G-UNI_LP_Oracle_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/gearbox-v2",
+    "title": "Gearbox V2 Smart Contract Audit - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/677bd3c9dbb6b66edd950c7f_6643e1b958440c0b14f806cd_ChainSecurity_Gearbox_Protocol_Gearbox_V2_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/q-blockchain",
+    "title": "Q Blockchain - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664490304b1aaaa1788ea571_ChainSecurity_Q_Blockchain_System_contracts_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-vii-smart-contracts",
+    "title": "Enzyme Sulu Extensions VII Smart Contracts - audit by Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643e10dcd70125af2e8237e_Enzyme-Sulu-Extensions-VII-Smart-Contract-audit-by-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/polymarket-exchange-smart-contracts",
+    "title": "Polymarket Exchange Smart Contracts - Audit by Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643e08704e6c349c8d45af6_Polymarket-Exchange-Smart-Contract-audit-by-ChainSecurity-1_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/stakedao-liquidlockers",
+    "title": "StakeDAO - LiquidLockers - Chainsecurity Smart Contract Audit",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643e555985fcf6ff78c3e9e_ChainSecurity_StakeDAO_LiquidLockers_Smart-Contract-audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/myso-finance-core-v1",
+    "title": "Myso Finance - Core V1 - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643e5fd4922396d3f4343b8_ChainSecurity_MYSO_Finance_Core_Protocol_V1_audit_221018_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/curve-finance-tricrypto",
+    "title": "Curve Finance Smart Contract Audit by ChainSecurity - Curve Tricrypto",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66449ef0b990c4cf3228f1e8_ChainSecurity_Curve-Finance-_-Tricrypto_smart-contract-audit_-September-2021_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/oasis-app-modular-proxy-actions",
+    "title": "Oasis.App - Modular Proxy Actions - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643ec6da2a66105cf4f3732_ChainSecurity_Oazo_Apps_Limited_Modular_Proxy_Actions_audit%20(1)_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/yearn-finance-ycrv-and-zapycrv",
+    "title": "Yearn Finance Smart Contract Audit - yCRV and ZapYCRV - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643ed14e70d3a2192080ebd_ChainSecurity_Yearn_yCRV_and_ZapYCRV_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/morpho-aave-v3",
+    "title": "Morpho (Aave V3) Smart Contract Audit - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643ed8d30ecd70617e3ebeb_ChainSecurity_Morpho_Labs_Morpho_Aave_v3_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/lido",
+    "title": "Lido Smart Contract Audit - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643ef1e72c28fd448dceb94_ChainSecurity_Lido_Smart-Contract-Audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/mellow-protocol",
+    "title": "Mellow Protocol - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643f2aca2a66105cf54a8c5_ChainSecurity_Mellow_Finance_Mellow_Vaults_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-v-smart-contracts",
+    "title": "Enzyme Sulu Extensions V Smart Contracts - audit by Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643f5b4a8a17e04efa9ecbc_Enzyme-Sulu-Extensions-V-Smart-Contract-audit-by-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-dssproxyactions",
+    "title": "MakerDAO - DSSProxyActions - Smart Contract Audit by Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643dc29e77c95ea6895a873_ChainSecurity_MakerDAO_DSSProxyActions_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/aave-bridge-executors",
+    "title": "Aave bridge executors - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643f0bf1d50762c216b0a3c_ChainSecurity_Aave_Bridge_Executors_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-starknet-teleport",
+    "title": "MakerDAO - Starknet Teleport - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664462e4dbf48a0c9fd3c5d4_ChainSecurity_MakerDAO_Starknet_Teleport_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-vi-smart-contracts",
+    "title": "Enzyme Sulu Extensions VI Smart Contracts - audit by Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6643e7a178eba984f53e1387_Enzyme-Sulu-Extensions-VI-Smart-Contract-audit-by-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-dss-proxy",
+    "title": "MakerDAO - DSS Proxy - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664461ffc8fb7e45b03f4142_ChainSecurity_MakerDAO_Dss_Proxy_audit-1_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/oasis-automation-consultancy-smart-contracts",
+    "title": "Oasis-Automation Consultancy Smart Contracts - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66446f12192b86018660d3d6_20220330-ChainSecurity_Oazo_Apps_Limited_Automation_Audit_Report_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-starknet-dai-bridge",
+    "title": "MakerDAO Starknet-DAI Bridge - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66446e4ec95369c0f4058510_ChainSecurity_MakerDAO_StarkNet-DAI-Bridge_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/1inch-farming",
+    "title": "1inch Smart Contract Audit - Farming - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66446d2999c644950b6007e0_ChainSecurity_1inch_Farming_audit_220329_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/stakedao-frax",
+    "title": "StakeDAO-Frax-veSDT - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644598910d010d66802f266_ChainSecurity_StakeDAO_StakeDAO-Frax-veSDT_audit_220427%20(1)_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-dai-wormhole",
+    "title": "MakerDAO - DAI Wormhole - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66446d8a24ceae880782bea5_ChainSecurity_MakerDAO_DAI_Wormhole_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-dss-crop-join",
+    "title": "MakerDAO - DSS Crop Join - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66446a6d10794bd7f4d79718_ChainSecurity_MakerDAO_DSS_Crop_Join_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/claystack-matic-march-2022",
+    "title": "ClayStack Matic smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664468bdd5b1a5a31919a57b_ChainSecurity_ClayStack_ClayStack_Matic_audit_compressed%20(1).pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-extensions-iii-smart-contracts",
+    "title": "Enzyme Extensions III Smart Contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66446b712a1036941039d375_Enzyme-Extensions-III-Smart-Contract-Audit-by-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-ii-smart-contracts",
+    "title": "Enzyme smart contract audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66446b081b0f310645a1871d_Enzyme-Sulu-Extensions-II-Smart-Contract-Audit-by-ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-curve-lp-steth-oracle",
+    "title": "MakerDAO - Curve LP & stETH oracle - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664469cc1b628e40c5b41296_ChainSecurity_MakerDAO_Curve_LP__stETH_oracle_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-cdp-registry",
+    "title": "MakerDAO - CDP registry - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66446933ec32a68e7f998caa_ChainSecurity_MakerDAO_CDP_Registry_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-rate-limited-flapper",
+    "title": "MakerDAO - Rate Limited Flapper - Smart Contract Audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644660e350c672ef79e4499_ChainSecurity_MakerDAO_Rate_Limited_Flapper_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/yearn-finance-partner-tracker",
+    "title": "Yearn Finance - Partner Tracker - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66448184750205e775d0c263_ChainSecurity_Yearn_Finance_Partner_Tracker_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-jan-22",
+    "title": "Enzyme Sulu extensions Jan '22 - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664488fce941e5a2f8551598_ChainSecurity_Avantgarde_Finance_Sulu_Extensions_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/angle-protocol-staking-and-surplus",
+    "title": "Angle Protocol - Staking and Surplus - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664482370ca0b3387a78dce0_ChainSecurity_Angle_Staking_and_Surplus_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/gearbox",
+    "title": "Gearbox protocol V1 audit by ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664489d5870922ea293f6196_ChainSecurity_Gearbox_Protocol_Gearbox_audit_Dec-13th-2021_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-sulu-extensions-dec-21",
+    "title": "Smart contract audit - Enzyme Sulu Extensions X - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66448e0643ee4bfb17b53550_ChainSecurity_Avantgarde_Finance_Sulu_Extensions_audit_univ3ptv4%20(1)_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-direct-deposit-module-d3m",
+    "title": "MakerDAO - Direct Deposit Module (D3M) - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66447eb77b108eff3e0f3a69_ChainSecurity_MakerDAO_D3M_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-dss-charter-smart-contracts",
+    "title": "MakerDAO - DSS-Charter Smart Contracts - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66448be87453acdc67edd0db_ChainSecurity_MakerDAO_DSS-Charter_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/threshold-network",
+    "title": "Threshold Network Smart Contract Audit - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66447d5c09b84d08fa15a70c_ChainSecurity_Threshold_Network_Threshold_Network_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/oasis-multiply-fmm-extension",
+    "title": "Oasis - Multiply FMM extension - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644aa1445144864811a4998_ChainSecurity_Oazo_Apps_Limited_Multiply_FMM_extension_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/enzyme-protocol-v4-sulu",
+    "title": "Enzyme Protocol v4 Sulu - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644a82a1ad59fbb06ae10b1_ChainSecurity_Avantgarde_Finance_Enzyme_Protocol_v4_Sulu_audit.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/primitive-finance-core-engine-smart-contracts",
+    "title": "Primitive Finance Core Engine Smart Contracts audit by ChainSecurity.",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644a7105c912f57f27c7359_ChainSecurity_Primitive-Finance-Core-Engine_Smart-Contract-Audit_October-11th-2021_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/nftfi",
+    "title": "NFTfi - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644a5f6df5f12e58281b1ad_ChainSecurity_POA_Network_SBC_Deposit_Smart-Contract-audit_-October-1st-2021_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/angle-protocol",
+    "title": "Angle Protocol - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644a6d3c8355bd6922949a8_ChainSecurity_Angle_Angle_Protocol_Smart-Contract-Audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/poa-network-stake-beacon-chain-sbc-deposit",
+    "title": "POA Network - \"Stake Beacon Chain (SBC) deposit\" - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644ac3bbeb429dd683d5a44_ChainSecurity_POA_Network_SBC_Deposit_Smart-Contract-audit_-October-1st-2021%20(1)_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/hopr-payment-channels",
+    "title": "Hopr - Payment Channels - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66449deeb8d227ebb23e8466_ChainSecurity_HOPRNet_Payment_Channel_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/ethereum-name-service-ens-namewrapper",
+    "title": "Ethereum Name Service (ENS) - NameWrapper - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644c4c998359e96eb9dbc75_ChainSecurity_ENS_NameWrapper_smart-contract-audit_Updated-Report_September-17th-2021_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/curve-finance-curve-eth-seth",
+    "title": "Curve Finance - \"Curve ETH / sETH\" - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644c640e005a5f5968d42c3_ChainSecurity_Curve_Finance_Curve_ETH_sETH_Smart-contract-audit_September-27th-2021_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-optimism-dai-bridge",
+    "title": "MakerDAO - Optimism DAI Bridge - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644c7bbe3bf9161a09a70c3_ChainSecurity_MakerDAO_Optimism_DAI_Bridge_smart-contract-audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/oasis-multiply-smart-contracts-security-audit",
+    "title": "Oasis - Multiply Smart Contracts - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644c71798359e96eb9ff5f7_ChainSecurity_Oazo_Apps_Limited_Multiply_Smart-Contract-audit_-September-7th-2021_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/rarible-staking-erc-721-erc-1155",
+    "title": "Rarible - Staking, ERC 721, ERC 1155 - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644c85f91b7857d5df7209c_ChainSecurity_Rarible_Inc_Staking_and_Tokens_Smart-Contract-Audit_July-14th-2021_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/hopr-hoprnet-token",
+    "title": "Hopr - Hoprnet Token - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644c996df51a11845ac7de3_210629_HOPR-Token_Smart-Contract-Audit-Report_ChainSecurity_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/poa-network-posdao",
+    "title": "POA Network - POSDAO - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664504ee2ee3928285505207_210625_POA-Network-_-POSDAO-smart-contract-audit_final-report_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/rarible-exchange-v2-smart-contracts",
+    "title": "Rarible - \"Exchange V2\" smart contracts - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664505940649422970d2f465_ChainSecurity_Smart-contract-audit_Rarible_June-25th-2021_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/poa-network-omnibridge",
+    "title": "POA Network - OmniBridge - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644cb21505a5852dbc23d7a_ChainSecurity_POANetwork_OmniBridge_FinalReport_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/kyberswap-classic",
+    "title": "KyberSwap Classic - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664590eaf772138770ad8457_ChainSecurity_Kyber_Network_KyberSwap_Classic_audit_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/unslashed-enzyme-bridge",
+    "title": "\"Unslashed-Enzyme Bridge\" - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6644cbdebee30735288b3bca_ChainSecurity_Avantgarde_UnslashedEnzymeBridge_FINAL-smart-contract-audit-report_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/makerdao-liquidations-2-0",
+    "title": "MakerDAO-Liquidations 2.0 - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645911c5a6bdb3c3a27b651_ChainSecurity_MakerDAO_Liquidations2.0_Final_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/coreledger",
+    "title": "Coreledger - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/66459246b28530dc9e0eb43c_CoreLedger-ManagmentReport_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/stokr",
+    "title": "STOKR - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645964daf21aafd5543726b_ChainSecurity_STOKR__compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/polkadot-claims",
+    "title": "Polkadot Claims - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645952db28530dc9e10a4a3_ChainSecurity_W3F_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/ren-smart-contracts",
+    "title": "Smart Contract Audit - Ren Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/674995b08a439724f989cf11_Ren%20smart%20contract%20audits%20-%20ChainSecurity%20-%20November%202019.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/iexec-v3",
+    "title": "iExec v3 - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/664597f4f772138770b234ff_ChainSecurity_iExec_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/ren-smart-contracts-2",
+    "title": "Smart Contract Audit - REN Smart Contracts - ChainSecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/674995b08a439724f989cf11_Ren%20smart%20contract%20audits%20-%20ChainSecurity%20-%20November%202019.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/republic-protocol",
+    "title": "Republic Protocol - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645a41f81f24ad3974319c4_ChainSecurity_Republic_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/paxos",
+    "title": "Paxos - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645a618f80d877f86f41c5a_ChainSecurity_Paxos_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/stk-security-audit",
+    "title": "STK - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645a2921d57a636702c6d3c_ChainSecurity_STK_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/wrapped-bitcoin-wbtc",
+    "title": "Wrapped Bitcoin (WBTC) - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645a7db4ee236f956a4b288_ChainSecurity_WBTC_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/poa",
+    "title": "POA - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645a5f08d64f89be8ee4856_ChainSecurity_PoA_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/kyber-network",
+    "title": "Kyber.Network - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645a6fcb3ff03b94925996d_ChainSecurity_KyberNetwork_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/iexec",
+    "title": "iExec - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645a8b38830dfdd92172592_ChainSecurity_iExec%20(1)_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/zilliqa",
+    "title": "Zilliqa - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645a9b13bce5e0e3db09b75_ChainSecurity_Zilliqa-1_compressed.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/augur",
+    "title": "Augur - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/67fe1c318d2c19f98c7b2d6b_ChainSecurity%20-%20Augur%20Core%20v1.pdf"
+    ]
+  },
+  {
+    "url": "https://www.chainsecurity.com/security-audit/hellogold-foundation",
+    "title": "HelloGold Foundation - Chainsecurity",
+    "pdfLinks": [
+      "https://cdn.prod.website-files.com/65d35b01a4034b72499019e8/6645aad03a58b9571885ad31_HelloGold_ChainSecurity_Public_Report_compressed.pdf"
+    ]
+  }
+]
